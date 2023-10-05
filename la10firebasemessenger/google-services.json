@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "70380171178",
+    "firebase_url": "https://messenger-f81b9-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "messenger-f81b9",
+    "storage_bucket": "messenger-f81b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70380171178:android:f7662d4bdd134998ec45d3",
+        "android_client_info": {
+          "package_name": "com.daniilk.la10firebasemessenger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8CIbxL1Gveja_SkkKHTDAPNgxfQXQ_HI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

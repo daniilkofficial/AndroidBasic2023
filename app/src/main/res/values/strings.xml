@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidBasic2023</string>
+    <string name="hello_user">Привет, пользователь!</string>
+
+</resources>

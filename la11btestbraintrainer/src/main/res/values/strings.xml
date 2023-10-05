@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LA11BTestBrainTrainer</string>
+    <string name="button_restart_game">НАЧАТЬ ЗАНОВО</string>
+</resources>
